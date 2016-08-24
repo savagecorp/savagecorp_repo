@@ -1,6 +1,6 @@
 // This is where it all goes :)
 
-//= require "retina.min"
+//= require "_retina"
 
 
 window.on('load', retina);
